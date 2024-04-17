@@ -1,8 +1,9 @@
 # MacroModels4Teaching
  
-`This repository contains code used for teaching & learning macroeconomic models. Where applicable, sources are provided from where original code was obtained.`
+*This repository contains code used for teaching & learning macroeconomic models. Where applicable, sources are provided from where original code was obtained.*
 
-# Dynare code for Growth models [![HT: JohannesPfeifer](https://github.com/JohannesPfeifer/DSGE_mod)]
+# Dynare code for Growth models 
+[[HT: JohannesPfeifer](https://github.com/JohannesPfeifer/DSGE_mod)]
 
 ## Solow_model
 
@@ -18,7 +19,7 @@ from steady state.
 Studies the transition behavior of a simple Solow-Swan economy with Cobb-Douglas production 
 function after unanticipated for changes in technology or population growth.
 
-["note:" error in code; replace "true" with "1" where macro ''*TFP_growth*'' is defined.]
+["note:" error in code; replace "true" with "1" where macro 'TFP_growth' is defined.]
 
 ### Solow_nonstationary.mod 
 Studies the transition behavior of a simple Solow-Swan economy with Cobb-Douglas production function to its balanced growth path (BGP). The Solow model is solved here in aggregate, i.e. non-detrended form along its balanced growth path. For that purpose, trending labor-augmenting technology and population processes are defined.
