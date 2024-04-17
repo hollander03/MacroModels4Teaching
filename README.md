@@ -1,6 +1,6 @@
 # MacroModels4Teaching
  
-*This repository contains code used for teaching & learning doundational macroeconomic models. Where applicable, sources are provided from where original code was obtained.*
+*This repository contains code used for teaching & learning foundational macroeconomic models. Where applicable, sources are provided from where original code was obtained.*
 
 # Dynare code for Growth models 
 [*Source*: Johannes Pfeifer](https://github.com/JohannesPfeifer/DSGE_mod)
