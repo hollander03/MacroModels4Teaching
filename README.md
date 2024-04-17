@@ -19,7 +19,7 @@ from steady state.
 Studies the transition behavior of a simple Solow-Swan economy with Cobb-Douglas production 
 function after unanticipated for changes in technology or population growth.
 
-["note:" error in code; replace `true` with `1` where macro `TFP_growth` is defined.]
+[*Note:* error in code; replace `true` with `1` where macro `TFP_growth` is defined.]
 
 ### Solow_nonstationary.mod 
 Studies the transition behavior of a simple Solow-Swan economy with Cobb-Douglas production function to its balanced growth path (BGP). The Solow model is solved here in aggregate, i.e. non-detrended form along its balanced growth path. For that purpose, trending labor-augmenting technology and population processes are defined.
