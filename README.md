@@ -3,7 +3,7 @@
 *This repository contains code used for teaching & learning macroeconomic models. Where applicable, sources are provided from where original code was obtained.*
 
 # Dynare code for Growth models 
-[[HT: JohannesPfeifer](https://github.com/JohannesPfeifer/DSGE_mod)]
+[![*Source*: JohannesPfeifer](https://github.com/JohannesPfeifer/DSGE_mod)]
 
 ## Solow_model
 
