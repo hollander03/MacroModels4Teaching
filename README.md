@@ -27,6 +27,6 @@ Studies the transition behavior of a simple Solow-Swan economy with Cobb-Douglas
 ## Ramsey_Cass_Koopmans.mod
 
 ### Ramsey_Cass_Koopmans.mod 
-Studies the transition behavior of a simple [Ramsey–Cass–Koopmans](https://en.wikipedia.org/wiki/Ramsey%E2%80%93Cass%E2%80%93Koopmans_model)] economy with Cobb-Douglas production function to its balanced growth path (BGP). The RCK model is solved here in aggregate,  i.e. non-detrended form along its balanced growth path. For that purpose, trending labor-augmenting technology and population processes are defined.
+Studies the transition behavior of a simple [Ramsey–Cass–Koopmans](https://en.wikipedia.org/wiki/Ramsey%E2%80%93Cass%E2%80%93Koopmans_model) economy with Cobb-Douglas production function to its balanced growth path (BGP). The RCK model is solved here in aggregate,  i.e. non-detrended form along its balanced growth path. For that purpose, trending labor-augmenting technology and population processes are defined.
 
 For a direct implementation in `MATLAB` (to solve the coupled system of ordinary differential equations and generate phase diagrams) see: [Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink](https://www.mathworks.com/company/technical-articles/simulating-the-ramsey-cass-koopmans-model-using-matlab-and-simulink.html)
